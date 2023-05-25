@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "employeetest",
+            "request": "launch",
+            "mainClass": "employeetest",
+            "projectName": "advanced java vit_3e256cdc"
+        },
+        {
+            "type": "java",
             "name": "shipping",
             "request": "launch",
             "mainClass": "shipping",

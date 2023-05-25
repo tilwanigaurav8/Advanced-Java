@@ -1,5 +1,4 @@
 import java.util.*;
-import package1.package2.Message;
 public class employee {
     public int id;
     public String firstname;
