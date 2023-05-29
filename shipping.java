@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;  
 import java.awt.event.*;  
   
-public class shipping 
+public class shipping implements Serializable
 {  
 // creating instances of Frame class and Button class  
 Frame fObj;  
